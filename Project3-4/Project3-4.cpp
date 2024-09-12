@@ -1,3 +1,11 @@
+/*
+File: P3-4
+Author: Chase McCluskey
+Date 9/12/2024
+
+Description: Calculates cost of ownership of a car
+
+*/
 #include <iostream>
 #include <string>
 
